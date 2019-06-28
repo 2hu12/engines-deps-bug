@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "ember-cli-babel": "^7.1.2",
-    "ember-cli-bootstrap-colorpicker": "^3.1.0",
+    "ember-cli-bootstrap-colorpicker": "https://github.com/2hu12/ember-cli-bootstrap-colorpicker.git#2hu12-patch-1",
     "ember-cli-htmlbars": "^3.0.0"
   },
   "devDependencies": {
