@@ -10,7 +10,7 @@ const hash = {
   },
 
   lazyLoading: {
-    enabled: false // if we make this true it will not build!
+    enabled: true
   }
 
 };
